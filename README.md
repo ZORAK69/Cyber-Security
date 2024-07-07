@@ -25,11 +25,11 @@ This repository contains several HTML projects developed as part of educational 
 
 **Task-04: **Simple Keylogger
 1. Develop a web page with HTML and JavaScript.
-2.Create a basic keylogger interface that logs keystrokes and saves them to file.
+2. Create a basic keylogger interface that logs keystrokes and saves them to file.
 
 **Task-05:** Network Packet Analyzer
-1.Design a web-based packet analyzer tool using HTML for interface.
-2.Capture and display relevant network packet information such as IP addresses, protocols, and payload data.
+1. Design a web-based packet analyzer tool using HTML for interface.
+2. Capture and display relevant network packet information such as IP addresses, protocols, and payload data.
 
 
 **Features**
