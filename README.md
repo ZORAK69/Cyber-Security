@@ -44,7 +44,7 @@ git clone https://github.com/ZORAK69/Parsunet
 2. Navigate to the specific project directory (e.g., caesar-cipher, password-checker, simple-keylogger, packet-analyzer).
 
 # Usage
-Each project directory contains its own **README.md **file with detailed instructions on installation, usage, and specific considerations.
+Each project directory contains its own **README.md** file with detailed instructions on installation, usage, and specific considerations.
 
 # Contributing
 Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
