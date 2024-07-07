@@ -10,7 +10,7 @@ This project implements a web-based Password Complexity Checker using HTML, CSS,
 
 # Installation
 1. Clone the repository:
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/ZORAK69/Parsunet/tree/main/Internship%20task/Task%203
 2. Navigate to the 'password-checker' directory.
 
 # Usage
