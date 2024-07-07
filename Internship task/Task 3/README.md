@@ -21,3 +21,7 @@ git clone https://github.com/ZORAK69/Parsunet/tree/main/Internship%20task/Task%2
 
 # Contributing
 Contributions are welcome! Fork the repository and submit a pull request with your enhancements.
+
+
+## NOTE -
+Adjust the placeholders (your-username, repository-name, and the license section) according to your specifics before publishing on GitHub. This template provides a structured approach to showcasing your Password Complexity Checker project using HTML, CSS, and JavaScript, with clear instructions for installation, usage, and contribution.
