@@ -10,7 +10,7 @@ This project implements a web-based Network Packet Analyzer using HTML, CSS, and
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/ZORAK69/Parsunet/tree/main/Internship%20task/Task%205
 2. Navigate to the packet-analyzer directory.
 
 ## Usage
