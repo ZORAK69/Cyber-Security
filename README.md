@@ -19,11 +19,11 @@ This repository contains several HTML projects developed as part of educational 
 1. Implement a web application using HTML for front-end interface.
 2. Allow users to input a message and a shift value to perform encryption and decryption operations using JavaScript.
 
-**Task-03: **Password Complexity Checker
+**Task-03:** Password Complexity Checker
 1. Build a web-based tool using HTML for front-end.
 2. Assess password strength based on criteria such as length, uppercase/lowercase letters, numbers, and special characters.
 
-**Task-04: **Simple Keylogger
+**Task-04:** Simple Keylogger
 1. Develop a web page with HTML and JavaScript.
 2. Create a basic keylogger interface that logs keystrokes and saves them to file.
 
