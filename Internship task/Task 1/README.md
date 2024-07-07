@@ -12,7 +12,7 @@ a certain number of places down or up the alphabet.
 
 # Installation
 1. Clone the repository:
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/ZORAK69/Parsunet/tree/main/Internship%20task/Task%201
 2. Navigate to the caesar-cipher directory.
 
 # Usage
