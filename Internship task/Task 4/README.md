@@ -11,7 +11,7 @@ Ethical considerations and permissions are crucial for projects involving keylog
 
 # Installation
 1. Clone the repository:
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/ZORAK69/Parsunet/tree/main/Internship%20task/Task%204
 2. Navigate to the 'simple-keylogger' directory.
 
 # Usage
