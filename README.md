@@ -2,12 +2,12 @@
 A collection of HTML projects focusing on cybersecurity and utility tools.
 
 ## Table of Contents
-1.Description
-2.Tasks
-3.Features
-4.Installation
-5.Usage
-6.Contributing
+1. Description
+2. Tasks
+3. Features
+4. Installation
+5. Usage
+6. Contributing
 
 
 # Description
@@ -34,13 +34,13 @@ This repository contains several HTML projects developed as part of educational 
 
 **Features**
 
-HTML Implementation: Projects are primarily developed using HTML for front-end design.
-Educational Focus: Projects are designed to explore concepts in cybersecurity through web-based applications.
-Interactive Interfaces: Utilize JavaScript for interactivity and functionality within each project.
+1. HTML Implementation: Projects are primarily developed using HTML for front-end design.
+2. Educational Focus: Projects are designed to explore concepts in cybersecurity through web-based applications.
+3. Interactive Interfaces: Utilize JavaScript for interactivity and functionality within each project.
 
 ## Installation
 1. Clone the repository:
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/ZORAK69/Parsunet
 2. Navigate to the specific project directory (e.g., caesar-cipher, password-checker, simple-keylogger, packet-analyzer).
 
 # Usage
