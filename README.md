@@ -1,4 +1,4 @@
-# Parsunet
+# PARSUNET
 A collection of HTML projects focusing on cybersecurity and utility tools.
 
 ## Table of Contents
