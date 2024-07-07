@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Network Packet Analyzer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Network Packet Analyzer</h1>
+        <p>Capture and Analyze Network Packets</p>
+    </header>
+    <main>
+        <div class="container">
+            <button id="startCapture">Start Capture</button>
+            <div class="table-container">
+                <table id="packetTable">
+                    <thead>
+                        <tr>
+                            <th>Source IP</th>
+                            <th>Destination IP</th>
+                            <th>Protocol</th>
+                            <th>Payload</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <!-- Packet data will be inserted here -->
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </main>
+    <script src="script.js"></script>
+</body>
+</html>

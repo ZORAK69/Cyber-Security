@@ -1,0 +1,106 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background: linear-gradient(45deg, #83a4d4, #b6fbff);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('image.jpg') center center fixed; 
+    margin: 0;
+    color: #444;
+}
+
+.container {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 100%;
+    text-align: center;
+    animation: fadeIn 1s ease-in-out;
+}
+
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+        transform: translateY(-20px);
+    }
+    to {
+        opacity: 1;
+        transform: translateY(0);
+    }
+}
+
+h1 {
+    margin-bottom: 20px;
+    font-size: 28px;
+    color: #333;
+}
+
+.password-checker {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+input[type="password"] {
+    width: 100%;
+    padding: 12px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    margin-bottom: 20px;
+    font-size: 16px;
+    transition: border 0.3s ease;
+}
+
+input[type="password"]:focus {
+    border-color: #007bff;
+}
+
+#strength-bar {
+    width: 100%;
+    height: 10px;
+    background-color: #e0e0e0;
+    border-radius: 5px;
+    overflow: hidden;
+    margin-bottom: 20px;
+}
+
+#strength-fill {
+    height: 100%;
+    width: 0;
+    background-color: #ff4d4d;
+    text-align: center;
+    line-height: 10px;
+    color: white;
+    font-size: 12px;
+    transition: width 0.3s ease, background-color 0.3s ease;
+}
+
+#feedback {
+    text-align: left;
+    width: 100%;
+}
+
+#feedback p {
+    margin: 5px 0;
+    padding: 5px;
+    border-radius: 4px;
+}
+
+#feedback p:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+#feedback p:nth-child(odd) {
+    background-color: #e9e9e9;
+}
+
+#feedback p {
+    color: #d9534f;
+}
+
+#feedback p:last-child {
+    color: #5cb85c;
+}
